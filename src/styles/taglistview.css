@@ -1,0 +1,11 @@
+QListView#tagListView {
+  border: none;
+}
+
+QListView#tagListView.light {
+  background: rgb(247, 247, 247);
+}
+
+QListView#tagListView.dark {
+  background: rgb(25, 25, 25);
+}
